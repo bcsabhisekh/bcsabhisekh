@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Life Saviour - RapidRescue App](https://github.com/bcsabhisekh/Life-Saviour)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
